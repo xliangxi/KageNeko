@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kage.xliangxi.vip/assets/kageneko-logo.png" width="112" alt="KageNeko Logo">
+  <img src="https://github.com/xliangxi/KageNeko/blob/main/website/assets/kageneko-logo.png?raw=true" width="112" alt="KageNeko Logo">
   <h1>KageNeko</h1>
   <p><strong>面向开发者与测试人员的 Windows 本地抓包、调试与数据处理工具。</strong></p>
   <p>进程级流量捕获 · HTTP(S) 拦截与重放 · WebSocket / TCP / UDP 查看 · 本地开发工具箱</p>
