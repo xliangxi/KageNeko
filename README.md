@@ -12,7 +12,7 @@ KageNeko 是一款基于 Electron、Python 与 mitmproxy 构建的本地网络�
 > [!IMPORTANT]
 > KageNeko 仅用于你本人拥有或已获得明确授权的设备、应用与网络。请勿截取、修改或传播未经授权的通信数据。
 
-![KageNeko 实时流量界面](https://kage.xliangxi.vip/assets/product-traffic.png)
+![KageNeko 实时流量界面](https://github.com/xliangxi/KageNeko/blob/main/website/assets/product-traffic.png?raw=true)
 
 ## 目录
 
@@ -68,7 +68,7 @@ KageNeko 是一款基于 Electron、Python 与 mitmproxy 构建的本地网络�
 - 导出证书，供测试设备安装和信任。
 - 一键复制当前代理地址。
 
-![KageNeko 功能界面](https://kage.xliangxi.vip/assets/product-toolbox.png)
+![KageNeko 功能界面](https://github.com/xliangxi/KageNeko/blob/main/website/assets/product-toolbox.png?raw=true)
 
 ## 开发工具箱
 
