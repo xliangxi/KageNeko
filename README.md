@@ -94,7 +94,7 @@ KageNeko 是一款基于 Electron、Python 与 mitmproxy 构建的本地网络�
 
 ### 直接安装
 
-1. 下载 [KageNeko 1.0.0 Windows x64 安装包](release/KageNeko-Setup-1.0.0-x64.exe)。
+1. 下载 [KageNeko官网](https://kage.xliangxi.vip/) 。
 2. 运行安装程序，按提示选择安装位置。
 3. 启动 KageNeko；Windows 可能显示管理员权限确认，这是驱动代理、系统代理和证书管理所需。
 
